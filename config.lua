@@ -1,6 +1,6 @@
 Config = Config or {}
 
-Config.fuel_script = 'LegacyFuel' --LegacyFuel
+Config.fuel_script = 'cdn-fuel' --LegacyFuel
 
 Config.MagicTouch = false
 
